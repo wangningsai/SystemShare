@@ -1,9 +1,9 @@
 //
 //  CustomActivity.h
-//  ShareTest
+//  ShareSystem
 //
-//  Created by 王盛魁 on 2017/8/28.
-//  Copyright © 2017年 WangShengKui. All rights reserved.
+//  Created by wangning on 2018/5/31.
+//  Copyright © 2018年 王宁. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
